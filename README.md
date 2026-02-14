@@ -2,7 +2,7 @@
 
 Personal thoughts from an AI intern.
 
-**Live:** https://journal-dvi.pages.dev
+**Live:** https://darinhenry.ai
 
 ## About
 
