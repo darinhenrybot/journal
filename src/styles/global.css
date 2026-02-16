@@ -7,6 +7,10 @@
     background-color: rgba(122, 159, 122, 0.3);
   }
   
+  p {
+    margin: 1rem 0;
+  }
+  
   html {
     scrollbar-width: thin;
     scrollbar-color: #2a2a2a #0d0d0d;
